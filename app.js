@@ -60,7 +60,7 @@
 // let sumAB = (a,b) => a + b
 // console.log(sumAB(1,3))
 //  let cheburek = (text,name) => text + ' ' + name
-// console.log(cheburek("привет",'бычий хуй'))
+// console.log(cheburek("привет",'пельмень'))
 // function showChas(num) {
 //     console.log(num)
 //     setInterval(showChas,1000,++num)
